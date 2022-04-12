@@ -17,7 +17,7 @@ input[type=text],input[type=text]:focus{
     position: absolute;
     padding: 12px 20px;
     transform: translate(-50%, -50%);
-    background-image: url('bgLight.png');
+    background-image: url('inputBg.png');
 }
 img[src="https://crafatar.com/avatars/8667ba71-b85a-4004-af54-457a9734eed7?overlay&size=512"]{
     display: none;
